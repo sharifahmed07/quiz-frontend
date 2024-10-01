@@ -1,0 +1,90 @@
+{
+  "studentRequests": [
+    {
+      "id": "743d",
+      "email": "sharif@gmail.com",
+      "password": "1111111111111111111",
+      "phone": "1111111111",
+      "resume": {}
+    },
+    {
+      "id": "bb2c",
+      "email": "sharif@gmail.com",
+      "password": "1111111111111111111",
+      "phone": "1111111111",
+      "resume": {}
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@example.com",
+      "password": "adminPassword",
+      "role": "admin",
+      "id": "b153"
+    },
+    {
+      "email": "manager@example.com",
+      "password": "managerPassword",
+      "role": "manager",
+      "id": "743e"
+    },
+    {
+      "email": "student@example.com",
+      "password": "studentPassword",
+      "role": "student",
+      "id": "d1e5"
+    }
+  ],
+  "acceptedStudents": [
+    {
+      "id": "a536",
+      "email": "sharif@gmail.com",
+      "password": "1111111111111111111",
+      "phone": "1111111111",
+      "resume": {},
+      "status": "accepted"
+    },
+    {
+      "id": "696e",
+      "email": "Ali@gmail.com",
+      "password": "34343434",
+      "phone": "6666666666",
+      "resume": {},
+      "status": "accepted"
+    },
+    {
+      "id": "9da2",
+      "email": "sharif@gmail.com",
+      "password": "1111111111111111111",
+      "phone": "1111111111",
+      "resume": {},
+      "status": "accepted"
+    }
+  ],
+  "rejectedStudents": [
+    {
+      "id": "a536",
+      "email": "sharif@gmail.com",
+      "password": "1111111111111111111",
+      "phone": "1111111111",
+      "resume": {},
+      "status": "rejected"
+    },
+    {
+      "id": "696e",
+      "email": "Ali@gmail.com",
+      "password": "34343434",
+      "phone": "6666666666",
+      "resume": {},
+      "status": "rejected"
+    },
+    {
+      "id": "d91f",
+      "email": "Ali@gmail.com",
+      "password": "34343434",
+      "phone": "1111111111",
+      "resume": {},
+      "status": "rejected"
+    }
+  ]
+}
